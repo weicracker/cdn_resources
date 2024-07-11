@@ -1,9 +1,9 @@
 window.APPS_JSON = [
   {
-    name: "沃伴新生学生端",
+    name: "XXX新生学生端",
     id: "woban_xs",
     version: "1.0.0",
-    description: "沃伴新生学生端描述",
+    description: "XXX新生学生端描述",
     downloadURLs: [
       {
         url: "https://github.com/woban-new/woban-new/releases/download/1.0.0/woban-new.zip",
@@ -14,15 +14,15 @@ window.APPS_JSON = [
     icon: "https://s21.ax1x.com/2024/07/10/pkfx7p8.png",
     license: "MIT",
     size: "1.0",
-    author: "联通（辽宁）产业互联网有限公司",
+    author: "XXXXXXX有限公司",
     updateDes: "1.xxxx\n2.xxxx\n3.xxxx",
     updateTime: "2021-09-01 09:10:00"
   },
   {
-    name: "沃伴新生教师端",
+    name: "XXX新生教师端",
     id: "woban_js",
     version: "1.0.0",
-    description: "沃伴新生教师端描述",
+    description: "XXX新生教师端描述",
     downloadURLs: [
       {
         url: "https://github.com/woban-new/woban-new/releases/download/1.0.0/woban-new.zip",
@@ -38,7 +38,7 @@ window.APPS_JSON = [
     icon: "https://s21.ax1x.com/2024/07/10/pkfxH1S.png",
     license: "MIT",
     size: "1.0",
-    author: "联通（辽宁）产业互联网有限公司",
+    author: "XXXXXXX有限公司",
     updateDes: "1.xxxx\n2.xxxx\n3.xxxx",
     updateTime: "2021-09-02 09:10:00"
   },
@@ -72,7 +72,7 @@ window.APPS_JSON = [
     icon: "https://s21.ax1x.com/2024/07/10/pkfxH1S.png",
     license: "MIT",
     size: "1.0",
-    author: "联通（辽宁）产业互联网有限公司",
+    author: "XXXXXXX有限公司",
     updateDes: "1.xxxx\n2.xxxx\n3.xxxx",
     updateTime: "2021-09-02 09:10:00"
   }
