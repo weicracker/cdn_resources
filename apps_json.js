@@ -16,7 +16,7 @@ window.APPS_JSON = [
       //   bgColor: "#28caad"
       // }
     ],
-    icon: "https://s21.ax1x.com/2024/07/10/pkfx7p8.png",
+    icon: "https://s21.ax1x.com/2024/07/12/pk4ArwT.png",
     license: "MIT",
     size: "2.8",
     author: "联通（辽宁）有限公司",
@@ -40,7 +40,7 @@ window.APPS_JSON = [
       //   bgColor: "#28caad"
       // }
     ],
-    icon: "https://s21.ax1x.com/2024/07/10/pkfxH1S.png",
+    icon: "https://s21.ax1x.com/2024/07/12/pk4ADmV.png",
     license: "MIT",
     size: "2.8",
     author: "联通（辽宁）有限公司",
