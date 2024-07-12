@@ -6,7 +6,7 @@ window.APPS_JSON = [
     description: "沃伴新生学生端描述",
     downloadURLs: [
       {
-        url: "https://jiwei.lanzout.com/iVayA248hwpe",
+        url: "https://www.123pan.com/s/j4qmjv-SD3Qh.html",
         btnName: "通用下载",
         bgColor: "#28caad"
       }
@@ -25,7 +25,7 @@ window.APPS_JSON = [
     description: "沃伴新生教师端描述",
     downloadURLs: [
       {
-        url: "https://jiwei.lanzout.com/iUULK248hwla",
+        url: "https://www.123pan.com/s/j4qmjv-lD3Qh.html",
         btnName: "通用下载",
         bgColor: "#28caad"
       }
